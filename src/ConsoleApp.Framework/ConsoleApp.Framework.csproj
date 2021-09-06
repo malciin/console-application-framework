@@ -23,6 +23,9 @@
       Simple console application framework that follow up ASP.NET Core style with startup class, built-in dependency injection, appsettings.json, logging etc.
     </Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/malciin/console-application-framework</RepositoryUrl>
+    <RespositoryType>git</RespositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>

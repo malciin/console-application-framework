@@ -3,7 +3,7 @@ using ConsoleApp.Framework;
 
 namespace ConsoleExample
 {
-    class Program
+    public class Program
     {
         static Task Main(string[] args)
         {
